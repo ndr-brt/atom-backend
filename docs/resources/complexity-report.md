@@ -9,7 +9,7 @@
 * Change cost: 6.228373702422145%
 * Core size: 100%
 
-## /home/runner/work/package-backend/package-backend/jest.config.js
+## /home/runner/work/atom-backend/atom-backend/jest.config.js
 
 * Physical LOC: 47
 * Logical LOC: 24
@@ -19,7 +19,7 @@
 * Maintainability index: 53.40549160506558
 * Dependency count: 0
 
-## /home/runner/work/package-backend/package-backend/jsdoc.conf.js
+## /home/runner/work/atom-backend/atom-backend/jsdoc.conf.js
 
 * Physical LOC: 14
 * Logical LOC: 4
@@ -39,7 +39,7 @@
     * Halstead volume: 19.651484454403228
     * Halstead effort: 39.302968908806456
 
-## /home/runner/work/package-backend/package-backend/src/cache.js
+## /home/runner/work/atom-backend/atom-backend/src/cache.js
 
 * Physical LOC: 28
 * Logical LOC: 3
@@ -49,7 +49,7 @@
 * Maintainability index: 78.8444767459975
 * Dependency count: 1
 
-## /home/runner/work/package-backend/package-backend/src/debug_utils.js
+## /home/runner/work/atom-backend/atom-backend/src/debug_utils.js
 
 * Physical LOC: 30
 * Logical LOC: 22
@@ -69,7 +69,7 @@
     * Halstead volume: 475.6861996976024
     * Halstead effort: 8970.082622869073
 
-## /home/runner/work/package-backend/package-backend/test/debug_utils.unit.test.js
+## /home/runner/work/atom-backend/atom-backend/test/debug_utils.unit.test.js
 
 * Physical LOC: 31
 * Logical LOC: 2
@@ -79,7 +79,7 @@
 * Maintainability index: 86.03073855173344
 * Dependency count: 1
 
-## /home/runner/work/package-backend/package-backend/test/global.setup.jest.js
+## /home/runner/work/atom-backend/atom-backend/test/global.setup.jest.js
 
 * Physical LOC: 38
 * Logical LOC: 21
@@ -109,7 +109,7 @@
     * Halstead volume: 97.67226489021297
     * Halstead effort: 555.5110065630863
 
-## /home/runner/work/package-backend/package-backend/test/handlers.setup.jest.js
+## /home/runner/work/atom-backend/atom-backend/test/handlers.setup.jest.js
 
 * Physical LOC: 35
 * Logical LOC: 18
@@ -119,7 +119,7 @@
 * Maintainability index: 57.15938083859105
 * Dependency count: 0
 
-## /home/runner/work/package-backend/package-backend/test/logger.unit.test.js
+## /home/runner/work/atom-backend/atom-backend/test/logger.unit.test.js
 
 * Physical LOC: 95
 * Logical LOC: 4
@@ -129,7 +129,7 @@
 * Maintainability index: 76.39879935103494
 * Dependency count: 1
 
-## /home/runner/work/package-backend/package-backend/test/query.unit.test.js
+## /home/runner/work/atom-backend/atom-backend/test/query.unit.test.js
 
 * Physical LOC: 143
 * Logical LOC: 78
@@ -139,7 +139,7 @@
 * Maintainability index: 37.68731830500316
 * Dependency count: 1
 
-## /home/runner/work/package-backend/package-backend/test/vcs.unit.test.js
+## /home/runner/work/atom-backend/atom-backend/test/vcs.unit.test.js
 
 * Physical LOC: 66
 * Logical LOC: 2
@@ -149,7 +149,7 @@
 * Maintainability index: 86.03073855173344
 * Dependency count: 1
 
-## /home/runner/work/package-backend/package-backend/docs/resources/jsdoc_typedef.js
+## /home/runner/work/atom-backend/atom-backend/docs/resources/jsdoc_typedef.js
 
 * Physical LOC: 1
 * Logical LOC: 0
@@ -159,7 +159,7 @@
 * Maintainability index: 100
 * Dependency count: 0
 
-## /home/runner/work/package-backend/package-backend/scripts/deprecated/search.js
+## /home/runner/work/atom-backend/atom-backend/scripts/deprecated/search.js
 
 * Physical LOC: 176
 * Logical LOC: 73
@@ -229,7 +229,7 @@
     * Halstead volume: 380.3296723500879
     * Halstead effort: 12318.455498894515
 
-## /home/runner/work/package-backend/package-backend/scripts/tools/genBadges.js
+## /home/runner/work/atom-backend/atom-backend/scripts/tools/genBadges.js
 
 * Physical LOC: 90
 * Logical LOC: 50
@@ -279,7 +279,7 @@
     * Halstead volume: 91.37651812938249
     * Halstead effort: 186.9065143555551
 
-## /home/runner/work/package-backend/package-backend/test/fixtures/git.createPackage_returns/valid_multi_version.js
+## /home/runner/work/atom-backend/atom-backend/test/fixtures/git.createPackage_returns/valid_multi_version.js
 
 * Physical LOC: 43
 * Logical LOC: 34
@@ -289,7 +289,7 @@
 * Maintainability index: 50.83192723928399
 * Dependency count: 0
 
-## /home/runner/work/package-backend/package-backend/test/fixtures/git.createPackage_returns/valid_one_version.js
+## /home/runner/work/atom-backend/atom-backend/test/fixtures/git.createPackage_returns/valid_one_version.js
 
 * Physical LOC: 25
 * Logical LOC: 19
@@ -299,7 +299,7 @@
 * Maintainability index: 58.378034894518755
 * Dependency count: 0
 
-## /home/runner/work/package-backend/package-backend/test/fixtures/lifetime/package-a.js
+## /home/runner/work/atom-backend/atom-backend/test/fixtures/lifetime/package-a.js
 
 * Physical LOC: 52
 * Logical LOC: 25
@@ -309,7 +309,7 @@
 * Maintainability index: 54.4848955157022
 * Dependency count: 0
 
-## /home/runner/work/package-backend/package-backend/test/fixtures/lifetime/user-a.js
+## /home/runner/work/atom-backend/atom-backend/test/fixtures/lifetime/user-a.js
 
 * Physical LOC: 9
 * Logical LOC: 6
